@@ -1,4 +1,5 @@
 # **Direito e Computação em Nuvem (Cloud Computing): proteção e privacidade na era digital**    
+**Feito por Thaianna A. Hirota**
 
 ### **O que é Cloud Computing?**   
 A computação em nuvem se refere ao fornecimento de recursos computacionais, tais como: servidores, armazenamento de dados, banco de dados, redes, softwares e até IAs, pela internet e permite que usuários/empresas acessem e utilizem essas ferramentas sem a necessidade de manter uma infraestrutura física própria.   
